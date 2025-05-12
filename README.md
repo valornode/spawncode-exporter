@@ -1,4 +1,4 @@
-How to Use the SpawncodeExporter:
+# How to Use the SpawncodeExporter:
 
 1. Download the Executable
 Download the latest version of the FiveM Spawncode Exporter from the Releases page.
